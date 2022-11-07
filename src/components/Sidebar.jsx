@@ -12,7 +12,7 @@ const Sidebar = () => {
       <p className="title">Desenvolvedor Full Stack</p>
       <SocialNetworkContainer />
       <InformationContainer />
-      
+      <a href="calebe.pdf" className="btn" download>Baixar currículo</a>
     </aside>
   );
 };

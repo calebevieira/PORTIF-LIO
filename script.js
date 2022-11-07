@@ -1,1 +1,0 @@
-<a href="calebe.pdf" className="btn" download>Baixar currículo</a>
