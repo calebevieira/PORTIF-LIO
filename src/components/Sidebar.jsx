@@ -12,8 +12,7 @@ const Sidebar = () => {
       <p className="title">Desenvolvedor Full Stack</p>
       <SocialNetworkContainer />
       <InformationContainer />
-      <a href="C:\Users\Calebe vieira\Documents\GitHub\PORTIF-LIO\calebe.pdf" className="btn" download>Baixar currículo</a>
-    </aside>
+      <a href ="/pdf/Currículo Calebe Vieira Nov 2022.pdf" download className="btn">Baixar currículo</a></aside>
   );
 };
 
